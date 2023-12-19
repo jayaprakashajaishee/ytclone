@@ -1,0 +1,1464 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "fgFTU72cBxabUcC7vsAOtr_gFAg",
+  "nextPageToken": "Z2V0X3JhbmtlZF9zdHJlYW1zLS1Dc01CQ0lBRUZSZTMwVGdhdUFFS3N3RUkyRjhRZ0FRWUJ5S29BZHVVS21LQTNvRlltckl5ZzhuM0M1VEJpaGhaR0lieFFybzFKWGpPM2YyLXFSV2dnZ0I2emdCd3JhSWdkSFNKMmdETUZkcWtOSmxKd0FXdVFrSXNzaUk4czhwUXB2TnBkSVJxVHNJLXhDNlJKbllWUkNBak5MVUVjWVdTd2lHb3NJUTkxQjZpNXE5Z2NoeDM3Sm5RSUxSZFN5dWdrWm1DU0pIbVFFUjRXY3VPT0NhbTFWRkJRRlJKNW44bXVfZGtWd3RCbG1MSERSVlFFWEJKLUJSeGRnUERPeHdJaXBkdEJSQVpFZ2NJaFNBUUN4Z0JFZ1VJaVNBWUFCSUhDSmNnRUE4WUFSSUZDSWNnR0FBU0JRaUdJQmdBRWdVSXFDQVlBQklGQ0lnZ0dBQVNCUWlnSUJnQUVnY0loQ0FRRmhnQkdBQQ==",
+  "pageInfo": {
+    "totalResults": 25,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Dmir4-dNf5_xIuhgKXZtPgnIHKQ",
+      "id": "Ugx0EusFjOzSSOMfR2V4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YvxnwwIUCUqoDk8OnCoB25aidYw",
+          "id": "Ugx0EusFjOzSSOMfR2V4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "KING NAAGARJUNA FANS🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉",
+            "textOriginal": "KING NAAGARJUNA FANS🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉",
+            "authorDisplayName": "@user-bf4pn5ur4i",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQt3cwgB_bmQGe1HrtkOFU7bmROJF6Gw9d5OG1IKI4s9QBQrETkPPmZbTH3S1_M=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@user-bf4pn5ur4i",
+            "authorChannelId": {
+              "value": "UCT1baaN6SDvJApDSOv1JB-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 32,
+            "publishedAt": "2023-12-17T09:42:59Z",
+            "updatedAt": "2023-12-17T09:42:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VIJFabIU7IVkhr6Q-l3OURSzkX4",
+      "id": "UgzAjx-XQ350nzlbKe94AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qxkyoYnBFl1ds0RwYx1s1mlpNzU",
+          "id": "UgzAjx-XQ350nzlbKe94AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Teaser kirraaaakkkkk🔥🔥Mark my words, this movie is gonna create magic at the Boxoffice! Nagarjuna sir is perfect for these kind of mass roles and he is still very energetic at the age of 65, KING IS BACK❤❤",
+            "textOriginal": "Teaser kirraaaakkkkk🔥🔥Mark my words, this movie is gonna create magic at the Boxoffice! Nagarjuna sir is perfect for these kind of mass roles and he is still very energetic at the age of 65, KING IS BACK❤❤",
+            "authorDisplayName": "@lampucy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/XMg7hk3Qb-P9lJVTkcPSCJgJNg7Gko_0TXPjIN0CMGmaZCM8PG2fMvVesHptLQ1UWRc9G5NA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@lampucy",
+            "authorChannelId": {
+              "value": "UChtb03KDmgTgJs3mD6-UNIQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 37,
+            "publishedAt": "2023-12-18T15:46:31Z",
+            "updatedAt": "2023-12-18T15:46:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mNXsgX7EGehVn8vLppc3_DaKhB4",
+      "id": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Sck9iLaYP_Pe0ExPap93kUON_u0",
+          "id": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "నటుడు +డ్యాన్సర్ + మోటివేటర్+ అందమైన+డైమండ్ హార్ట్ ఉన్న వ్యక్తి = నాగార్జున సార్ ❤️❤️",
+            "textOriginal": "నటుడు +డ్యాన్సర్ + మోటివేటర్+ అందమైన+డైమండ్ హార్ట్ ఉన్న వ్యక్తి = నాగార్జున సార్ ❤️❤️",
+            "authorDisplayName": "@sivajitanikonda6604",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/PmJlwS2s0gJEo7_ypqKqf7BhXI_C9w7qz3FKCWrn7jjPJP24kmYPBdlEmWyVARVpWOl07fBLbQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sivajitanikonda6604",
+            "authorChannelId": {
+              "value": "UCY0SCli9dxpdgSX5DNBTuEA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 232,
+            "publishedAt": "2023-12-17T07:45:49Z",
+            "updatedAt": "2023-12-17T09:46:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 27,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "XoPKLOwZuZkdJ6bHy6sDPR3znUo",
+            "id": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg.9yQ3jYRMkDm9yQ56zDErS8",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "😂😂😂😂😂😂😂",
+              "textOriginal": "😂😂😂😂😂😂😂",
+              "parentId": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg",
+              "authorDisplayName": "@ohmylove0711",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQxfx6WC9r-L5XKukxOfUUThBkIwnbD7Od4PQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@ohmylove0711",
+              "authorChannelId": {
+                "value": "UCAv5x3o4ujMbvxt0VcXfn1Q"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 7,
+              "publishedAt": "2023-12-17T07:57:54Z",
+              "updatedAt": "2023-12-17T07:57:53Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "qdX-6QxyabTn1usObgV7QWQZrTU",
+            "id": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg.9yQ3jYRMkDm9yQ5WdgbxUO",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "😮😮😮😮😮",
+              "textOriginal": "😮😮😮😮😮",
+              "parentId": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg",
+              "authorDisplayName": "@rajjar115",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/md-MyTnhfz7H-cwqJIXavEMd8T59wB9Hxw3Chj-vztrLyroUVY00uzyYNS95rfZ7YaFUmFf6a_0=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@rajjar115",
+              "authorChannelId": {
+                "value": "UCu5i3bw4uv-u0ettOMk9gYg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2023-12-17T08:01:24Z",
+              "updatedAt": "2023-12-17T08:01:23Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "WHK1FGlWbVjM6U28I6jSYUI0oNo",
+            "id": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg.9yQ3jYRMkDm9yQ6Hrppfcb",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Innesi talent lu unnayani kaneesam aayanakaina telusaaa🤣🤣🤣, yevaro Jr. NTR ki raasindi copy kottavu",
+              "textOriginal": "Innesi talent lu unnayani kaneesam aayanakaina telusaaa🤣🤣🤣, yevaro Jr. NTR ki raasindi copy kottavu",
+              "parentId": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg",
+              "authorDisplayName": "@SLNHanumaK",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR3FsL6NMJfBI312OH5KsHVQFGapwNDVDB5e9_IkA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@SLNHanumaK",
+              "authorChannelId": {
+                "value": "UCQ7P2gP1gcQmOzQxtdNHDvw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 8,
+              "publishedAt": "2023-12-17T08:08:07Z",
+              "updatedAt": "2023-12-17T08:08:07Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "89wohIOPrDGGhn_hm5moafdxOKs",
+            "id": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg.9yQ3jYRMkDm9yQ6Rf9qCNY",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Pan India movies am tisadu asalu",
+              "textOriginal": "Pan India movies am tisadu asalu",
+              "parentId": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg",
+              "authorDisplayName": "@gopikittukusuma3032",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/MSFoTd8nnwNTE-XImp5kNgM8EeoW7eF4TETQF6EMAWCzUOlxhQfJva4Ru8vnHMP_UVDAas14CzA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@gopikittukusuma3032",
+              "authorChannelId": {
+                "value": "UCgUWZuo0ETMHvdzXODeqTIg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-12-17T08:09:28Z",
+              "updatedAt": "2023-12-17T08:09:27Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "t8MtVPQ7MwlDUcrzcs2IBJtVLtI",
+            "id": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg.9yQ3jYRMkDm9yQ6ZXR6HjS",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "global star devara 💯💥💥💥",
+              "textOriginal": "global star devara 💯💥💥💥",
+              "parentId": "UgxZSoXqk7Jq3ZQ4HrZ4AaABAg",
+              "authorDisplayName": "@srikanthkgf9141",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/9uHo5zBNX_YYK8TrbF6Rfztz2ypP0khbn8Frqm2T76R3lkC9w6fGmFlm18PKNDwy_izPJItsiw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@srikanthkgf9141",
+              "authorChannelId": {
+                "value": "UCPy6dBwYObs0K3jwNp7RoIA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-12-17T08:10:32Z",
+              "updatedAt": "2023-12-17T08:10:31Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0btuTQFTO_RWS3NzgtY2b5Wnov4",
+      "id": "UgwdlPE6QvtyS6Gd1CJ4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-za9t0dCfcRZT0P2e8quTOzOzTE",
+          "id": "UgwdlPE6QvtyS6Gd1CJ4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Mass movie best look best body best talent best action best acting ....... ❤❤",
+            "textOriginal": "Mass movie best look best body best talent best action best acting ....... ❤❤",
+            "authorDisplayName": "@khemsingh5404",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZT6xfR40kFM4z1TCjPOKeOXTYm9tKxoVE10-g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@khemsingh5404",
+            "authorChannelId": {
+              "value": "UCaZIZhpgjvr14VVyPdWfQjw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 17,
+            "publishedAt": "2023-12-17T15:48:42Z",
+            "updatedAt": "2023-12-17T15:49:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HwMF-2zNozO_M371O6FUvXzUmuQ",
+      "id": "Ugy7LRLKFeQLLX-XRNV4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cW86ZEL3l2ObnBrGCTyUAj_b5s8",
+          "id": "Ugy7LRLKFeQLLX-XRNV4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Wow!!! Loved this teaser ❤️❤️.......Nag Sir&#39;s looks are just love😍😍😘🥳 Best Of Luck to entire team of Naa Saami Ranga 👍💯",
+            "textOriginal": "Wow!!! Loved this teaser ❤️❤️.......Nag Sir's looks are just love😍😍😘🥳 Best Of Luck to entire team of Naa Saami Ranga 👍💯",
+            "authorDisplayName": "@chahatgupta7034",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQ6PyI1EZPNVE13_9L-WupDRwu84xHMpG2Cng=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@chahatgupta7034",
+            "authorChannelId": {
+              "value": "UCoIynf-4Zfx94BxkatDJLUg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 48,
+            "publishedAt": "2023-12-17T09:52:50Z",
+            "updatedAt": "2023-12-17T09:52:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TTjMH6KOplWauz3e973FbmHNZaE",
+      "id": "UgweLxB5NmoOjoq0sel4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JpKDTFbaD-Sww05DxYfYu0TvlL8",
+          "id": "UgweLxB5NmoOjoq0sel4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Nagaarjuna fan Assemble Here ❤❤❤",
+            "textOriginal": "Nagaarjuna fan Assemble Here ❤❤❤",
+            "authorDisplayName": "@SandeepSahu424",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSecjulI3S2nFGM_GriWUfd6QLT8Yzv3YlOu1QNTw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@SandeepSahu424",
+            "authorChannelId": {
+              "value": "UCXuTv1Z2wRdDADNlffjGYcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-12-18T08:25:37Z",
+            "updatedAt": "2023-12-18T08:25:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uCNuyetgKhj22DEz9NCgf52kW6k",
+      "id": "UgzHLJ2FF_4XJBrqKEJ4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NekWn30wCDmcW4ybZg7rqixp2Fk",
+          "id": "UgzHLJ2FF_4XJBrqKEJ4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Dark Room + This Song + Headphone + With Love = A Perfect Combination ❤",
+            "textOriginal": "Dark Room + This Song + Headphone + With Love = A Perfect Combination ❤",
+            "authorDisplayName": "@Heartbeatchannelz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/1p90n7otHKwm042tKzYGCNzgwkN7uf6BpvHfilC_bKRCnv51BXN5Iw7iDJcm6H1v5ufK4ptyIQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Heartbeatchannelz",
+            "authorChannelId": {
+              "value": "UCZA5Atrmipijp1-3Kns6tKg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2023-12-18T03:57:19Z",
+            "updatedAt": "2023-12-18T03:57:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "lsC4NctaBbI52PpQpDgAZyhKM8M",
+            "id": "UgzHLJ2FF_4XJBrqKEJ4AaABAg.9ySENmpj1xR9yUkLo5O2rn",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Ye song raa? Song ekkada vinipinchindi ra neeku?",
+              "textOriginal": "Ye song raa? Song ekkada vinipinchindi ra neeku?",
+              "parentId": "UgzHLJ2FF_4XJBrqKEJ4AaABAg",
+              "authorDisplayName": "@PrattipatiSaiTeja",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZS3WF1RlUE4gcaXg9AsiX4ivEMx-Bl1Nq5f6zR4UKk=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@PrattipatiSaiTeja",
+              "authorChannelId": {
+                "value": "UCbKfHEEDCo0jwOL8XAS0VwA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-12-19T03:23:53Z",
+              "updatedAt": "2023-12-19T03:23:53Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "c5cUHHGuJ-FTw2H39t4FRUwXcT8",
+      "id": "UgyyWHrQocbqxY6rxnp4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iE5F2PwxvTu9dviHLffAJ_qKtUM",
+          "id": "UgyyWHrQocbqxY6rxnp4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Dear parents: Just because your child is smiling at their phone, doesn&#39;t mean they have a boyfriend or girlfriend, they are watching this masterpiece!",
+            "textOriginal": "Dear parents: Just because your child is smiling at their phone, doesn't mean they have a boyfriend or girlfriend, they are watching this masterpiece!",
+            "authorDisplayName": "@HindimashupsongS890",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/bGs69E2D7GcmKqt2Wt1yuvulic8tOHk_40d5iEL47lUh7JaGdSCYuTz4yfN8jQ8S1NlktTAbXA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@HindimashupsongS890",
+            "authorChannelId": {
+              "value": "UC3GcoNjuzWbbJvqMm2RBdTA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 18,
+            "publishedAt": "2023-12-17T10:00:50Z",
+            "updatedAt": "2023-12-17T10:00:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "WP-sfkfJfTrPn1ygUeMFUm9nOsc",
+            "id": "UgyyWHrQocbqxY6rxnp4AaABAg.9yQJBP7l2jz9ySLrGdxVNk",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "<a href=\"https://www.youtube.com/watch?v=z6aWFHBnK4Q\">https://youtu.be/z6aWFHBnK4Q?si=y16znxWdWjpraQ6K</a>",
+              "textOriginal": "https://youtu.be/z6aWFHBnK4Q?si=y16znxWdWjpraQ6K",
+              "parentId": "UgyyWHrQocbqxY6rxnp4AaABAg",
+              "authorDisplayName": "@sarahalajangi8759",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQtatke-ERVVU-OcD70C4zd6Alg9ddti46d2rA0OA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@sarahalajangi8759",
+              "authorChannelId": {
+                "value": "UC81KEdvPdZTCDHulVTkoyCA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-12-18T05:02:39Z",
+              "updatedAt": "2023-12-18T05:02:38Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kwcuogrPBICUMGc9VKdOIyJ8X0I",
+      "id": "UgyrGqE6Vy4sdS5gByN4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YSyFcmAYlFTT3fazmrqVt243LXw",
+          "id": "UgyrGqE6Vy4sdS5gByN4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Block buster ❤ king 👑👌👍👍👍",
+            "textOriginal": "Block buster ❤ king 👑👌👍👍👍",
+            "authorDisplayName": "@akhilaakki3393",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/DzwtSTO25QRuu3YgPnsYtYNvitoz4z-aD8DW-59NKr1w-NRCjn5lCgTttmkEtIuAE2IBmBDvkA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@akhilaakki3393",
+            "authorChannelId": {
+              "value": "UCYRBvZ8dePpyvcFtKb9TF1w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2023-12-17T11:32:13Z",
+            "updatedAt": "2023-12-17T11:32:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4E2f9SZZvnse4z9fTlGNBCTB8Go",
+      "id": "UgwlZQ6_gjj-TlVStpR4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HqfqZwhjbTn5WJZC21fNJL_p44Q",
+          "id": "UgwlZQ6_gjj-TlVStpR4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Mass action &amp; comedy movie.  Waiting 🎉🎉🎉🎉❤❤❤ I love nag sir❤❤",
+            "textOriginal": "Mass action & comedy movie.  Waiting 🎉🎉🎉🎉❤❤❤ I love nag sir❤❤",
+            "authorDisplayName": "@anushakaparapu5052",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTHUH_3gwhXpMUvsu8RaORODH-ZZ6B5C8w5pN8Pkg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@anushakaparapu5052",
+            "authorChannelId": {
+              "value": "UCNjoxgIua-iZgPcqTJQHEVQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 18,
+            "publishedAt": "2023-12-17T07:58:30Z",
+            "updatedAt": "2023-12-17T07:58:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QVr-gnmNaG_jIWFRMJTtjURIfmk",
+      "id": "UgywbFFGsERsG8PeIQ94AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qK0zxhtxa8qqT76ZCHqekDxc0Qc",
+          "id": "UgywbFFGsERsG8PeIQ94AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "All the very Best to <a href=\"http://www.youtube.com/results?search_query=%23king_nagarjuna\">#King_Nagarjuna</a> from <a href=\"http://www.youtube.com/results?search_query=%23megastar_chiru\">#MegaStar_Chiru</a> Fans❤❤❤",
+            "textOriginal": "All the very Best to #King_Nagarjuna from #MegaStar_Chiru Fans❤❤❤",
+            "authorDisplayName": "@rajeshcharanist9465",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSYy_qWJiHX0ADPgYcQmMQb2OPm-LJQFCJMxRfKhfs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rajeshcharanist9465",
+            "authorChannelId": {
+              "value": "UCg2_rRldvghUvLvbfX42Jtg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 11,
+            "publishedAt": "2023-12-17T12:33:03Z",
+            "updatedAt": "2023-12-17T12:33:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AHnSr1u1NljPVG27J_oB79IdQlI",
+      "id": "UgzMVQskdhRw9t1g9ph4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "04cbrjogorxalPw7NorpywxqWmM",
+          "id": "UgzMVQskdhRw9t1g9ph4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "MA KING NAAGARJUNA❤🎉🎉🎉🎉🎉🎉🎉",
+            "textOriginal": "MA KING NAAGARJUNA❤🎉🎉🎉🎉🎉🎉🎉",
+            "authorDisplayName": "@user-bf4pn5ur4i",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQt3cwgB_bmQGe1HrtkOFU7bmROJF6Gw9d5OG1IKI4s9QBQrETkPPmZbTH3S1_M=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@user-bf4pn5ur4i",
+            "authorChannelId": {
+              "value": "UCT1baaN6SDvJApDSOv1JB-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 8,
+            "publishedAt": "2023-12-17T10:40:34Z",
+            "updatedAt": "2023-12-17T10:40:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "36yXYSMJ1ErMsN1pDjK2W6NhsGc",
+      "id": "Ugzqu1aF73Yn-Us8rWh4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "yQm6OTQEVS6jhtpuo-pR2WH3btM",
+          "id": "Ugzqu1aF73Yn-Us8rWh4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Once a king, always a king❤Nag sir<br>Big hit movie at sankranthi 🔥💥",
+            "textOriginal": "Once a king, always a king❤Nag sir\nBig hit movie at sankranthi 🔥💥",
+            "authorDisplayName": "@trivikramdieheartfan5017",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/WwTYEi54cZ5WEPyJWZljtWd7tv4E3UOltsEkNgU-Nbm7Yj8OFAELeV43QKTQdvlpe4zhpxbt=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@trivikramdieheartfan5017",
+            "authorChannelId": {
+              "value": "UCCrMF0SuN6OXBfh40lYVa9w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 58,
+            "publishedAt": "2023-12-17T08:03:15Z",
+            "updatedAt": "2023-12-17T08:03:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QQR_22nvKJfsVXCQyCa3lD37LEM",
+      "id": "UgynvmSSupr6TMWqXud4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mRDglp4XZ7Zu-Em4s8CA7HjIV4M",
+          "id": "UgynvmSSupr6TMWqXud4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "It&#39;s not a teaser, It&#39;s purely Goosebumps 🔥🤩🥳...",
+            "textOriginal": "It's not a teaser, It's purely Goosebumps 🔥🤩🥳...",
+            "authorDisplayName": "@bhanuprakash7570",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRPAvEFITnlQcTN6GCAQMET8fYiVRv6MU6Gjg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@bhanuprakash7570",
+            "authorChannelId": {
+              "value": "UCvMY7GDJePaJ84WWDjC4Lbg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 281,
+            "publishedAt": "2023-12-17T11:48:01Z",
+            "updatedAt": "2023-12-17T11:48:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 11,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "VmBvfYes1ovyMfVEvvZaDAXoQbg",
+            "id": "UgynvmSSupr6TMWqXud4AaABAg.9yQVSSR4GJQ9yQmcMQDT1o",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Manchi come back eche movie edi❤❤❤❤❤ nag sir ki",
+              "textOriginal": "Manchi come back eche movie edi❤❤❤❤❤ nag sir ki",
+              "parentId": "UgynvmSSupr6TMWqXud4AaABAg",
+              "authorDisplayName": "@raju808",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/dStLaLqXRvvkz_oewj12aZyfNiFs9ZNfBeA50hnOzMkutpXBHt_fX-MhSiXA4cIhi60rwnrvfw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@raju808",
+              "authorChannelId": {
+                "value": "UCwXCGB3QzZMpa-158HumTOg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 6,
+              "publishedAt": "2023-12-17T14:26:48Z",
+              "updatedAt": "2023-12-17T14:26:47Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "w7m6UFzLy0JoCufmE__MTjnxH2k",
+            "id": "UgynvmSSupr6TMWqXud4AaABAg.9yQVSSR4GJQ9yQxAgGx1rb",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "​@@raju808haa avunu broo 🤩🔥...",
+              "textOriginal": "​@@raju808haa avunu broo 🤩🔥...",
+              "parentId": "UgynvmSSupr6TMWqXud4AaABAg",
+              "authorDisplayName": "@bhanuprakash7570",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRPAvEFITnlQcTN6GCAQMET8fYiVRv6MU6Gjg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@bhanuprakash7570",
+              "authorChannelId": {
+                "value": "UCvMY7GDJePaJ84WWDjC4Lbg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 5,
+              "publishedAt": "2023-12-17T15:59:00Z",
+              "updatedAt": "2023-12-17T15:58:59Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "_kDr6VNO7ywfLJd1o1i9B26p-c4",
+            "id": "UgynvmSSupr6TMWqXud4AaABAg.9yQVSSR4GJQ9ySLpBn-0Br",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "<a href=\"https://www.youtube.com/watch?v=z6aWFHBnK4Q\">https://youtu.be/z6aWFHBnK4Q?si=y16znxWdWjpraQ6K</a>",
+              "textOriginal": "https://youtu.be/z6aWFHBnK4Q?si=y16znxWdWjpraQ6K",
+              "parentId": "UgynvmSSupr6TMWqXud4AaABAg",
+              "authorDisplayName": "@sarahalajangi8759",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQtatke-ERVVU-OcD70C4zd6Alg9ddti46d2rA0OA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@sarahalajangi8759",
+              "authorChannelId": {
+                "value": "UC81KEdvPdZTCDHulVTkoyCA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-12-18T05:02:22Z",
+              "updatedAt": "2023-12-18T05:02:21Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Orr7sGLeJcHJMVU0Eb3dmT2OmmU",
+            "id": "UgynvmSSupr6TMWqXud4AaABAg.9yQVSSR4GJQ9yS_-LMrd7h",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Gudhalo vachaya goosebumps aule gee nagarjuna movies ku kuda goosebumps vasthayara neku aule",
+              "textOriginal": "Gudhalo vachaya goosebumps aule gee nagarjuna movies ku kuda goosebumps vasthayara neku aule",
+              "parentId": "UgynvmSSupr6TMWqXud4AaABAg",
+              "authorDisplayName": "@knowledgecastle5574",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/s5At5AQ1pLedOiXzKFxdAXpCiRk8S0XwMqhLC8jrjwq-_QjwRxLE_bGfzdOZ5gJ7QntbAQtANQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@knowledgecastle5574",
+              "authorChannelId": {
+                "value": "UCMUJMD23SvDKu7rMXcXxs6Q"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 4,
+              "publishedAt": "2023-12-18T07:06:13Z",
+              "updatedAt": "2023-12-18T07:06:12Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "dH7XCXfCoMlijIiMf7aXqrZuOZM",
+            "id": "UgynvmSSupr6TMWqXud4AaABAg.9yQVSSR4GJQ9yScfoW4_09",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "emundi bhayya trailer lo goosebumps raadaniki?",
+              "textOriginal": "emundi bhayya trailer lo goosebumps raadaniki?",
+              "parentId": "UgynvmSSupr6TMWqXud4AaABAg",
+              "authorDisplayName": "@SaipraveenSeva",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRbTYuKPOwnpbvqrIAJIqcqP4yOyDgg09DTBICFhw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@SaipraveenSeva",
+              "authorChannelId": {
+                "value": "UC5aC0470mK0O_oe-sOFBCSA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2023-12-18T07:38:22Z",
+              "updatedAt": "2023-12-18T07:38:21Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CXeyuxhgh3Wkqx3kV3cwuSEqlgQ",
+      "id": "Ugyas7jeTvkJq_vg9L94AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BSpOTlTbMsBwgUDeHreX4Ke7mis",
+          "id": "Ugyas7jeTvkJq_vg9L94AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Block buster 🔥",
+            "textOriginal": "Block buster 🔥",
+            "authorDisplayName": "@phanindragangula",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/lXOwCJjBCoksl8nXj78JPtP8vLJNZ9wn0Jg1LulWvOs_rdM0KG-7yQHKB3j_dDD1GNJR7BVaeZw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@phanindragangula",
+            "authorChannelId": {
+              "value": "UCp8RmeXKJJFPTVx8zU17L2Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-12-18T06:31:38Z",
+            "updatedAt": "2023-12-18T06:31:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tYSIvsE7I1UNiSyZ2PTYMfn96Ws",
+      "id": "UgymioAn_v1XA4xiLUR4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ro6M5EmA4JEU1wZqYT06JLrgwlo",
+          "id": "UgymioAn_v1XA4xiLUR4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "సంక్రాOతి సోగ్గాడు 🎉<br>always నాగ్గాడు❤ <br>KING🔥",
+            "textOriginal": "సంక్రాOతి సోగ్గాడు 🎉\nalways నాగ్గాడు❤ \nKING🔥",
+            "authorDisplayName": "@kanakaraju3217",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/kejAptAE5XEECHF4SjFNa_hnU5W-9827NJI_lBz3Rj35gZ43BFknlYJjUtErjXobCnh1VDIMlw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@kanakaraju3217",
+            "authorChannelId": {
+              "value": "UCNIj3PmvD8SoQ-jvYf-fXag"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 15,
+            "publishedAt": "2023-12-17T08:05:18Z",
+            "updatedAt": "2023-12-17T08:08:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HHoWfAl-c6v0N8WPMFgNgkQjUGw",
+      "id": "UgzNDlCRxFiotG7UyEt4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bP2Fj8QYdUBpLmvx0h8vnSW5BGE",
+          "id": "UgzNDlCRxFiotG7UyEt4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Teaser Kirrak..  the movie will be goes to biggest Hit.. definitely.. 🎉 Allari King&#39;s 😊",
+            "textOriginal": "Teaser Kirrak..  the movie will be goes to biggest Hit.. definitely.. 🎉 Allari King's 😊",
+            "authorDisplayName": "@Anil-ls8vt",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRAydm659PoqrUSwQ9XDQA-PH-SXujZwHEG4CsENQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Anil-ls8vt",
+            "authorChannelId": {
+              "value": "UCGsjVry8HpXOcF58nlRH3AA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2023-12-17T12:27:49Z",
+            "updatedAt": "2023-12-17T12:27:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Joq3MFiiNmesGASv8BOw-rKeoEE",
+      "id": "Ugzu8OUMK1HCy8suNnV4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8m36zbFuRV_h4zlm7h8Vsdm7jmI",
+          "id": "Ugzu8OUMK1HCy8suNnV4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Nag is superbb❤ masss movie 🔥🔥😍",
+            "textOriginal": "Nag is superbb❤ masss movie 🔥🔥😍",
+            "authorDisplayName": "@adrinsavio3100",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRtKcWzZ1LCmHzcz_WzAIf9f2D45kdpaNfBBQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@adrinsavio3100",
+            "authorChannelId": {
+              "value": "UC5YjaXRlowHvvcVVpMTsD4A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 35,
+            "publishedAt": "2023-12-17T08:51:08Z",
+            "updatedAt": "2023-12-17T08:51:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "GMt7_4m87OSTzLEjF5tZBp4Zhqg",
+      "id": "UgwGNCXkhNS0jv14V8J4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9Bcgbj7kkf-0gzIWRShDwsidQTc",
+          "id": "UgwGNCXkhNS0jv14V8J4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Only 90&#39;s and 2000&#39;s can understand how much we love Nagarjuna sir ❤️❤️",
+            "textOriginal": "Only 90's and 2000's can understand how much we love Nagarjuna sir ❤️❤️",
+            "authorDisplayName": "@sivajitanikonda6604",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/PmJlwS2s0gJEo7_ypqKqf7BhXI_C9w7qz3FKCWrn7jjPJP24kmYPBdlEmWyVARVpWOl07fBLbQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sivajitanikonda6604",
+            "authorChannelId": {
+              "value": "UCY0SCli9dxpdgSX5DNBTuEA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 302,
+            "publishedAt": "2023-12-17T07:38:25Z",
+            "updatedAt": "2023-12-17T07:38:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "PXNhruOZRTAHUcL8bbvvrYF-kaE",
+            "id": "UgwGNCXkhNS0jv14V8J4AaABAg.9yQ2tKVXK6s9yQ7A-7leFV",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Your write bro",
+              "textOriginal": "Your write bro",
+              "parentId": "UgwGNCXkhNS0jv14V8J4AaABAg",
+              "authorDisplayName": "@ramavathbalakrishna9744",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRJ1l9pBa3hW3V_xgNPob0CBLXVIEmd9ldgy_1HK2b9rMvIBQWiga-N1xiJPeRl=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@ramavathbalakrishna9744",
+              "authorChannelId": {
+                "value": "UCMJ1FWjpzBP5p59cHm2k0lA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-12-17T08:15:47Z",
+              "updatedAt": "2023-12-17T08:15:47Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "He1q8cD0skqWGiX1hB87DEIrL_o",
+            "id": "UgwGNCXkhNS0jv14V8J4AaABAg.9yQ2tKVXK6s9yQDE79spkF",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Perfect . Same feeling",
+              "textOriginal": "Perfect . Same feeling",
+              "parentId": "UgwGNCXkhNS0jv14V8J4AaABAg",
+              "authorDisplayName": "@captainofship1072",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRBgbc8ZzNFLwDBilKgx5ymSpOV9UX-8nYsSVMYOqo=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@captainofship1072",
+              "authorChannelId": {
+                "value": "UC7ZdP-6dVGob7eiIgt8b0WA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-12-17T09:08:47Z",
+              "updatedAt": "2023-12-17T09:08:46Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "IdQ--5COoa8fx4zSatEk32tNSGw",
+            "id": "UgwGNCXkhNS0jv14V8J4AaABAg.9yQ2tKVXK6s9yQ_KJneMCT",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Tqbro❤",
+              "textOriginal": "Tqbro❤",
+              "parentId": "UgwGNCXkhNS0jv14V8J4AaABAg",
+              "authorDisplayName": "@poolasudharsan1573",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSkql0KQ9B-M34XjHaheD4Vf3ee8A3iRHhV0vzRDaw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@poolasudharsan1573",
+              "authorChannelId": {
+                "value": "UCtCDAIRdgDcKHhVCNpI7h7g"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-12-17T12:30:36Z",
+              "updatedAt": "2023-12-17T12:30:35Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "GAIyZb2lqnUn6afupTn6BEwjf4I",
+            "id": "UgwGNCXkhNS0jv14V8J4AaABAg.9yQ2tKVXK6s9ySLtF4AIMe",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "<a href=\"https://www.youtube.com/watch?v=z6aWFHBnK4Q\">https://youtu.be/z6aWFHBnK4Q?si=y16znxWdWjpraQ6K</a>",
+              "textOriginal": "https://youtu.be/z6aWFHBnK4Q?si=y16znxWdWjpraQ6K",
+              "parentId": "UgwGNCXkhNS0jv14V8J4AaABAg",
+              "authorDisplayName": "@sarahalajangi8759",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQtatke-ERVVU-OcD70C4zd6Alg9ddti46d2rA0OA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@sarahalajangi8759",
+              "authorChannelId": {
+                "value": "UC81KEdvPdZTCDHulVTkoyCA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-12-18T05:02:55Z",
+              "updatedAt": "2023-12-18T05:02:54Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "R3gtYvnkJVkEaKl5CP1oVZpzF6s",
+            "id": "UgwGNCXkhNS0jv14V8J4AaABAg.9yQ2tKVXK6s9yTXUtz8UND",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Sankranthi ki Nag babai mass jathara chudabotunnam🔥🔥",
+              "textOriginal": "Sankranthi ki Nag babai mass jathara chudabotunnam🔥🔥",
+              "parentId": "UgwGNCXkhNS0jv14V8J4AaABAg",
+              "authorDisplayName": "@tapvum",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/KHtgu7TvqvIArJNmZcDu4wBACVrB40sLLvR1Laf0w0SxMACFbde8AGQfVlz0mIaWbMl3Hzz5GvI=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@tapvum",
+              "authorChannelId": {
+                "value": "UCnlYyg5akxyBlGquzYa2B5g"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2023-12-18T16:03:33Z",
+              "updatedAt": "2023-12-18T16:03:33Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SLXD3np4RhQuQ7YOTqzY9atmrmg",
+      "id": "UgwHQU60JQv-lY5SFoZ4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "P-HDIhywoXs1VFH2uDK5Rp3mido",
+          "id": "UgwHQU60JQv-lY5SFoZ4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "I wish God that this movie should be a Blockbuster ❤🎉",
+            "textOriginal": "I wish God that this movie should be a Blockbuster ❤🎉",
+            "authorDisplayName": "@ssstarsgaming999",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ifgzf7ZSZp_uqCNXECyim8GX5KhTlO80Fd6TlM24kkXvNrBQBJMaqG8ZcZW2BXJMdNNAg40_cQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ssstarsgaming999",
+            "authorChannelId": {
+              "value": "UCCT2BsCO2zBUpW1ZzpbTL0A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2023-12-17T09:31:27Z",
+            "updatedAt": "2023-12-17T09:31:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EZK74ci7Gm3G8WDzdyym33TPJHo",
+      "id": "Ugxj1sS686s8vW8-H4B4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hWW5YApDFvXHkco8hzxxETkDHk0",
+          "id": "Ugxj1sS686s8vW8-H4B4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Teaser Super 👌👌<br>All the best Nag sir 💐💐",
+            "textOriginal": "Teaser Super 👌👌\nAll the best Nag sir 💐💐",
+            "authorDisplayName": "@BalaKrishna-bz2ue",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRx1AEONoEs08J6ARb3-THUuqZ5xixE_hQlY9L8ljWSFjqS4mO_duJyTO_LBX_S=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@BalaKrishna-bz2ue",
+            "authorChannelId": {
+              "value": "UCK99vk8KuifL91hyhg3FoZw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2023-12-17T12:02:37Z",
+            "updatedAt": "2023-12-17T12:02:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "OqIMlWFsUnD47HJEgmaWbUk8Guo",
+      "id": "UgyC8lOL9fTdc-5oC_54AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CFQrGasn1TBqPOQeKCt2i2Cc6JE",
+          "id": "UgyC8lOL9fTdc-5oC_54AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "It&#39;s not a teaser, it&#39;s purely Goosebumps 🔥🔥🔥",
+            "textOriginal": "It's not a teaser, it's purely Goosebumps 🔥🔥🔥",
+            "authorDisplayName": "@sivajitanikonda6604",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/PmJlwS2s0gJEo7_ypqKqf7BhXI_C9w7qz3FKCWrn7jjPJP24kmYPBdlEmWyVARVpWOl07fBLbQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sivajitanikonda6604",
+            "authorChannelId": {
+              "value": "UCY0SCli9dxpdgSX5DNBTuEA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 372,
+            "publishedAt": "2023-12-17T07:37:29Z",
+            "updatedAt": "2023-12-17T07:37:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 11,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "GLSTd5votT3MxEf7NihE4t_o554",
+            "id": "UgyC8lOL9fTdc-5oC_54AaABAg.9yQ2mUKOG359yQ6Zwmsh-O",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "&quot;Aapki maa ki umar kitna hoin chahiye ?<br>&quot;Ioger : 😶 years&quot;<br>&quot;1Subscribe : 100+100 years:............",
+              "textOriginal": "\"Aapki maa ki umar kitna hoin chahiye ?\n\"Ioger : 😶 years\"\n\"1Subscribe : 100+100 years:............",
+              "parentId": "UgyC8lOL9fTdc-5oC_54AaABAg",
+              "authorDisplayName": "@Attitudegirl530",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/fiQRXONiMVvk7yT5vxSClj0Kd72v5TNRD_KKSKh1NEo_VaMX0TPAUX7BYrtsT-Wj_iUmADDmHZo=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@Attitudegirl530",
+              "authorChannelId": {
+                "value": "UCDgwU8uMVYMudZdU5r1PbnQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-12-17T08:10:36Z",
+              "updatedAt": "2023-12-17T08:10:35Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "gFBXfN8P1ElqXqe9-S09J8ic80M",
+            "id": "UgyC8lOL9fTdc-5oC_54AaABAg.9yQ2mUKOG359yQ7bZbsT3T",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "Losse motions em kaadu",
+              "textOriginal": "Losse motions em kaadu",
+              "parentId": "UgyC8lOL9fTdc-5oC_54AaABAg",
+              "authorDisplayName": "@naganaboinachaitanya5184",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQgeKcL5b31a5mdjjgHVyRopjFBgzumqCN7Yw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@naganaboinachaitanya5184",
+              "authorChannelId": {
+                "value": "UCwW-06GpE88k_xY4G7CMJNw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 5,
+              "publishedAt": "2023-12-17T08:19:41Z",
+              "updatedAt": "2023-12-17T08:19:41Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "xo5z2MQ8eqQ1SVK4v_UA_JTxf0s",
+            "id": "UgyC8lOL9fTdc-5oC_54AaABAg.9yQ2mUKOG359yQ7hj9phl6",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "@@Attitudegirl15696 brain less fellow 🤫🤫",
+              "textOriginal": "@@Attitudegirl15696 brain less fellow 🤫🤫",
+              "parentId": "UgyC8lOL9fTdc-5oC_54AaABAg",
+              "authorDisplayName": "@srikanthkgf9141",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/9uHo5zBNX_YYK8TrbF6Rfztz2ypP0khbn8Frqm2T76R3lkC9w6fGmFlm18PKNDwy_izPJItsiw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@srikanthkgf9141",
+              "authorChannelId": {
+                "value": "UCPy6dBwYObs0K3jwNp7RoIA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-12-17T08:20:32Z",
+              "updatedAt": "2023-12-17T08:20:46Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "986kteASQzSYnrk3TNehWbFuEnM",
+            "id": "UgyC8lOL9fTdc-5oC_54AaABAg.9yQ2mUKOG359yQGR5juty2",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "​@@naganaboinachaitanya5184me hero moddakudu ,jai king nagarjuna",
+              "textOriginal": "​@@naganaboinachaitanya5184me hero moddakudu ,jai king nagarjuna",
+              "parentId": "UgyC8lOL9fTdc-5oC_54AaABAg",
+              "authorDisplayName": "@thodasamrameshramesh5619",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSzlPe0KvUHHGTY6LPXJH56o4hMtt8bK68XMUi9BDPxIAKgGKlAfp_o9BUeMt_F=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@thodasamrameshramesh5619",
+              "authorChannelId": {
+                "value": "UCyfO1QL5U_400GaLXqlnV5g"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2023-12-17T09:36:46Z",
+              "updatedAt": "2023-12-17T09:36:45Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "bsPOufnA7T3vwNp9LJqu9uIUhOs",
+            "id": "UgyC8lOL9fTdc-5oC_54AaABAg.9yQ2mUKOG359yQT040Bdsv",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "😂😂😂 don&#39;t make joke here bhai",
+              "textOriginal": "😂😂😂 don't make joke here bhai",
+              "parentId": "UgyC8lOL9fTdc-5oC_54AaABAg",
+              "authorDisplayName": "@kingmaker6851",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQHXj10a-aGT1qm6w-UX9AoMC2cGYYquO63rPyT=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@kingmaker6851",
+              "authorChannelId": {
+                "value": "UC2-a_GJHAp-UtmKy1cITQaA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-12-17T11:26:40Z",
+              "updatedAt": "2023-12-17T11:26:40Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DSl2YycLKMnN_PX_dM8dZHAKrKE",
+      "id": "UgzFsCtwNlqrUXub8xl4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1YNZxikTSdq7wNL87lqZfL04CRk",
+          "id": "UgzFsCtwNlqrUXub8xl4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "King Nag Anna super🎉🎉❤❤🎉🎉",
+            "textOriginal": "King Nag Anna super🎉🎉❤❤🎉🎉",
+            "authorDisplayName": "@thurakavenkatesh6928",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/6-1KhipW3XkC8R-4E31PqpzsEKGLQXrw-Suo9ZK_z_lDHDJEQOliaUhHSxjNYXvLXvSzTt8W=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@thurakavenkatesh6928",
+            "authorChannelId": {
+              "value": "UCrSvIIGj0X-BSNHpq3pf8Cg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-12-18T02:30:48Z",
+            "updatedAt": "2023-12-18T02:30:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UEqshmfuBpETor6xDZqyVrNZ1Bw",
+      "id": "UgxybbgP-j_yY0C1rtF4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XZ_mfAD8vUbxpfGpCIbPO355HbA",
+          "id": "UgxybbgP-j_yY0C1rtF4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "Teaser super 👌👌👌",
+            "textOriginal": "Teaser super 👌👌👌",
+            "authorDisplayName": "@lalithareddy3109",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSW0eyU1_W0HQDhDc3brVDef7jUni1_r_xNww=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@lalithareddy3109",
+            "authorChannelId": {
+              "value": "UCTmAatQABaLUyKIBSUuGShg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2023-12-17T07:54:55Z",
+            "updatedAt": "2023-12-17T07:54:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8mte5F0F13_TX8BoV47uijUoMX8",
+      "id": "Ugw-r0eCmqqRFWFPIfN4AaABAg",
+      "snippet": {
+        "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+        "videoId": "H_pMXlbIu_g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "T7KIiv_VtyPiiA2_zonKrxefbdY",
+          "id": "Ugw-r0eCmqqRFWFPIfN4AaABAg",
+          "snippet": {
+            "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+            "videoId": "H_pMXlbIu_g",
+            "textDisplay": "ఈ సంక్రాంతికి కుటుంబంతో కలిసి చూసే సినిమా ఇచ్చినందుకు నాగార్జున గారికి చాలా thanks.... సంక్రాంతి బ్లాక్ బస్టర్ జై అక్కినేని",
+            "textOriginal": "ఈ సంక్రాంతికి కుటుంబంతో కలిసి చూసే సినిమా ఇచ్చినందుకు నాగార్జున గారికి చాలా thanks.... సంక్రాంతి బ్లాక్ బస్టర్ జై అక్కినేని",
+            "authorDisplayName": "@yamalabhargav8828",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-VBy9G-ATdUxRoGMSok4_91ls_k8G5xptvsYtFAd91vn70YHr1BDeTHIpLxHAVKpq0zrNnbYQKQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@yamalabhargav8828",
+            "authorChannelId": {
+              "value": "UCZWfRqcKdwKdk9QxLpESGsQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 211,
+            "publishedAt": "2023-12-17T07:19:31Z",
+            "updatedAt": "2023-12-17T07:19:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "XkP_7o8Fzh52JM2wpf9oQFtypcA",
+            "id": "Ugw-r0eCmqqRFWFPIfN4AaABAg.9yQ0inqAnL39yQ0zpuel3u",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "&quot;Aapki maa ki umar kitna hoin chahiye ?<br>&quot;Ioger : 😶 years&quot;<br>&quot;1Subscribe : 100 years:..........",
+              "textOriginal": "\"Aapki maa ki umar kitna hoin chahiye ?\n\"Ioger : 😶 years\"\n\"1Subscribe : 100 years:..........",
+              "parentId": "Ugw-r0eCmqqRFWFPIfN4AaABAg",
+              "authorDisplayName": "@Attitudegirl530",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/fiQRXONiMVvk7yT5vxSClj0Kd72v5TNRD_KKSKh1NEo_VaMX0TPAUX7BYrtsT-Wj_iUmADDmHZo=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@Attitudegirl530",
+              "authorChannelId": {
+                "value": "UCDgwU8uMVYMudZdU5r1PbnQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2023-12-17T07:21:50Z",
+              "updatedAt": "2023-12-17T07:21:49Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "eRam5czTCaSKpkjg4RuIO5hg19g",
+            "id": "Ugw-r0eCmqqRFWFPIfN4AaABAg.9yQ0inqAnL39yQ8rvdK748",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "I&#39;m big fan of Nagarjuna gaaru",
+              "textOriginal": "I'm big fan of Nagarjuna gaaru",
+              "parentId": "Ugw-r0eCmqqRFWFPIfN4AaABAg",
+              "authorDisplayName": "@ramavathbalakrishna9744",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRJ1l9pBa3hW3V_xgNPob0CBLXVIEmd9ldgy_1HK2b9rMvIBQWiga-N1xiJPeRl=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@ramavathbalakrishna9744",
+              "authorChannelId": {
+                "value": "UCMJ1FWjpzBP5p59cHm2k0lA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 5,
+              "publishedAt": "2023-12-17T08:30:40Z",
+              "updatedAt": "2023-12-17T08:30:39Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "nfpuMtvhG1O7LMWytpomoKXGZGA",
+            "id": "Ugw-r0eCmqqRFWFPIfN4AaABAg.9yQ0inqAnL39yQiriKZt1b",
+            "snippet": {
+              "channelId": "UCSXwEK86-OWEn_QF65X7c7Q",
+              "videoId": "H_pMXlbIu_g",
+              "textDisplay": "😎king",
+              "textOriginal": "😎king",
+              "parentId": "Ugw-r0eCmqqRFWFPIfN4AaABAg",
+              "authorDisplayName": "@bsuguna8097",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/oM0KCP1HWI9PbbBFR_n87jlzle1uU-AEG11vDbLZ-9CU2XpEl4Kyn4Q5yd-DmJmnaUMcsKpb=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@bsuguna8097",
+              "authorChannelId": {
+                "value": "UC6G8jHuZew8e5MQw8W1B3Ug"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 4,
+              "publishedAt": "2023-12-17T13:53:57Z",
+              "updatedAt": "2023-12-17T13:53:56Z"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
