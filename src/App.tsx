@@ -1,28 +1,35 @@
 import React from "react";
-// import logo from './logo.svg';
 import "bootstrap/dist/css/bootstrap.min.css";
-import './App.css';
+import "./App.css";
 import VideoGrid from "./components/VideoGrid";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import VideoPage from "./components/VideoPage";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <VideoGrid />,
+  },
+  {
+    path: "/video/:id",
+    element: <VideoPage />,
+  },
+]);
 
 function App() {
   return (
-    // <div className="App">
-    //   <header className="App-header">
-    //     <img src={logo} className="App-logo" alt="logo" />
-    //     <p>
-    //       Edit <code>src/App.tsx</code> and save to reload.
-    //     </p>
-    //     <a
-    //       className="App-link"
-    //       href="https://reactjs.org"
-    //       target="_blank"
-    //       rel="noopener noreferrer"
-    //     >
-    //       Learn React
-    //     </a>
-    //   </header>
-    // </div>
-    <VideoGrid />
+    <RouterProvider router={router} />
+    // <VideoGrid />
+    // <iframe
+    //   title="sdasd"
+    //   style={{ width: "100vw", height: "100vh" }}
+    //   // width="100"
+    //   // height="100vw"
+    //   src="//www.youtube.com/embed/FR9U8A-pQmw"
+    //   // frameborder="0"
+    //   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    //   allowFullScreen
+    // />
   );
 }
 
