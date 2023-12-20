@@ -8,10 +8,10 @@ import CommentCard from "./CommentCard";
 import { CommentItem, RootComment } from "../../types/types";
 import axios from "axios";
 
-let config = {
+const config = {
   method: "get",
   maxBodyLength: Infinity,
-  url: "https://youtube.googleapis.com/youtube/v3/commentThreads?part=id%2Creplies%2Csnippet&maxResults=25&key=AIzaSyCUGnNnrteD_IGHlgPyhWtIWxugvDQHQtE&order=relevance",
+  url: "https://youtube.googleapis.com/youtube/v3/commentThreads?part=id%2Creplies%2Csnippet&maxResults=10&key=AIzaSyCUGnNnrteD_IGHlgPyhWtIWxugvDQHQtE&order=relevance",
   headers: {},
 };
 
@@ -20,6 +20,7 @@ const Comments: React.FC<{ videoId: string }> = ({ videoId }) => {
     () => ({ ...config, url: config.url + `&videoId=${videoId}` }),
     [videoId]
   );
+
   const [
     comments,
     loadingComments,
@@ -31,9 +32,13 @@ const Comments: React.FC<{ videoId: string }> = ({ videoId }) => {
 
   const loadMore = useCallback(() => {
     setCommentsLoading(true);
+    console.log(comments.nextPageToken);
     const newConfig = {
-      ..._config,
-      url: _config.url + `&pageToken=${comments.nextPageToken}`,
+      ...config,
+      url:
+        config.url +
+        `&videoId=${videoId}` +
+        `&pageToken=${comments.nextPageToken}`,
     };
 
     axios
@@ -51,7 +56,7 @@ const Comments: React.FC<{ videoId: string }> = ({ videoId }) => {
         setCommentsError(error);
         setCommentsLoading(false);
       });
-  }, [setComments, setCommentsError, setCommentsLoading, comments, _config]);
+  }, [setComments, setCommentsError, setCommentsLoading, comments, videoId]);
 
   const handleScroll = useCallback(() => {
     if (
@@ -67,7 +72,7 @@ const Comments: React.FC<{ videoId: string }> = ({ videoId }) => {
   useEffect(() => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
-  }, [handleScroll]);
+  }, [handleScroll, comments]);
 
   return (
     <Stack gap={2}>
