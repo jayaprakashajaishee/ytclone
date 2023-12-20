@@ -1,11 +1,11 @@
 import * as React from "react";
 import { useParams } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
-import Comments from "./Comments";
+import Comments from "../comments/Comments";
 
 const VideoPage: React.FC = () => {
   const { id } = useParams();
-
+  
   return (
     <Container fluid>
       <Row>
@@ -17,7 +17,7 @@ const VideoPage: React.FC = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
           />
-          <Comments />
+          <Comments videoId={id!} />
         </Col>
         <Col md={4}>
           {/* <iframe

@@ -1,9 +1,9 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import VideoGrid from "./components/VideoGrid";
+import VideoGrid from "./components/video/VideoGrid";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import VideoPage from "./components/VideoPage";
+import VideoPage from "./components/video/VideoPage";
 
 const router = createBrowserRouter([
   {

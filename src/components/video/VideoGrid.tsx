@@ -1,11 +1,11 @@
 import React, { useCallback, useEffect, useState } from "react";
-import videos from "../videos.json";
+import videos from "../../videos.json";
 import { Container, Row, Col } from "react-bootstrap";
-import useFetchData from "../hooks/useFetch";
+import useFetchData from "../../hooks/useFetch";
 import VideoCard from "./VideoCard";
 import VideoCardPlaceHolders from "./VideoCardPlaceHolder";
 import axios from "axios";
-import { VideoData } from "../types/types";
+import { VideoData } from "../../types/types";
 
 const config = {
   method: "get",

@@ -12,10 +12,10 @@ export interface RootComment {
   etag: string;
   nextPageToken: string;
   pageInfo: PageInfo;
-  items: Item[];
+  items: CommentItem[];
 }
 
-interface Item {
+export interface CommentItem {
   kind: string;
   etag: string;
   id: string;
@@ -24,10 +24,10 @@ interface Item {
 }
 
 interface Replies {
-  comments: Comment[];
+  comments: ReplyCommentItem[];
 }
 
-interface Comment {
+export interface ReplyCommentItem {
   kind: string;
   etag: string;
   id: string;
