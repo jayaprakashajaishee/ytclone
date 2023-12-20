@@ -1,9 +1,6 @@
 import React, { useMemo, useCallback, useEffect } from "react";
 import useFetchData from "../../hooks/useFetch";
-import comments from "../../comments.json";
-import { Stack, Spinner } from "react-bootstrap";
-import { formatDistanceToNow } from "date-fns";
-import { LiaThumbsUp, LiaThumbsDown } from "react-icons/lia";
+import { Stack, Spinner, Alert } from "react-bootstrap";
 import CommentCard from "./CommentCard";
 import { CommentItem, RootComment } from "../../types/types";
 import axios from "axios";
@@ -51,6 +48,7 @@ const Comments: React.FC<{ videoId: string }> = ({ videoId }) => {
           items: [...prev.items, ...response.data.items],
         }));
         setCommentsLoading(false);
+        setCommentsError(null);
       })
       .catch((error) => {
         setCommentsError(error);
@@ -79,6 +77,11 @@ const Comments: React.FC<{ videoId: string }> = ({ videoId }) => {
       {comments?.items.map((comment: CommentItem) => (
         <CommentCard key={comment.id} comment={comment} />
       ))}
+      {errorComments && (
+        <Alert variant="danger" style={{ marginBottom: 50 }}>
+          {errorComments.message}
+        </Alert>
+      )}
       {loadingComments && (
         <div style={{ display: "flex", justifyContent: "center" }}>
           <Spinner animation="border" />
