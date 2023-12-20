@@ -15,62 +15,63 @@ const config = {
 };
 
 const VideoGrid: React.FC = () => {
-  // const [
-  //   videoData,
-  //   videosLoading,
-  //   videoError,
-  //   setVideoData,
-  //   setVideoDataLoading,
-  //   setVideoDataError,
-  // ] = useFetchData(config);
+  const [
+    videoData,
+    videosLoading,
+    videoError,
+    setVideoData,
+    setVideoDataLoading,
+    setVideoDataError,
+  ] = useFetchData(config);
 
-  // const loadMore = useCallback(() => {
-  //   setVideoDataLoading(true);
-  //   const newConfig = {
-  //     ...config,
-  //     url: config.url + `&pageToken=${videoData.nextPageToken}`,
-  //   };
+  const loadMore = useCallback(() => {
+    setVideoDataLoading(true);
+    const newConfig = {
+      ...config,
+      url: config.url + `&pageToken=${videoData.nextPageToken}`,
+    };
 
-  //   axios
-  //     .request(newConfig)
-  //     .then((response) => {
-  //       setVideoData((prev: VideoData) => ({
-  //         ...prev,
-  //         nextPageToken: response.data.nextPageToken,
-  //         prevPageToken: response.data.prevPageToken,
-  //         items: [...prev.items, ...response.data.items],
-  //       }));
-  //       setVideoDataLoading(false);
-  //     })
-  //     .catch((error) => {
-  //       setVideoDataError(error);
-  //       setVideoDataLoading(false);
-  //     });
-  // }, [setVideoData, setVideoDataError, setVideoDataLoading, videoData]);
+    axios
+      .request(newConfig)
+      .then((response) => {
+        setVideoData((prev: VideoData) => ({
+          ...prev,
+          nextPageToken: response.data.nextPageToken,
+          prevPageToken: response.data.prevPageToken,
+          items: [...prev.items, ...response.data.items],
+        }));
+        setVideoDataLoading(false);
+      })
+      .catch((error) => {
+        setVideoDataError(error);
+        setVideoDataLoading(false);
+      });
+  }, [setVideoData, setVideoDataError, setVideoDataLoading, videoData]);
 
-  // const handleScroll = useCallback(() => {
-  //   if (
-  //     window.innerHeight + document.documentElement.scrollTop !==
-  //       document.documentElement.offsetHeight ||
-  //     videosLoading
-  //   ) {
-  //     return;
-  //   }
-  //   loadMore();
-  // }, [videosLoading, loadMore]);
+  const handleScroll = useCallback(() => {
+    if (
+      window.innerHeight + document.documentElement.scrollTop !==
+        document.documentElement.offsetHeight ||
+      videosLoading
+    ) {
+      return;
+    }
+    loadMore();
+  }, [videosLoading, loadMore]);
 
-  // useEffect(() => {
-  //   window.addEventListener("scroll", handleScroll);
-  //   return () => window.removeEventListener("scroll", handleScroll);
-  // }, [handleScroll]);
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, [handleScroll]);
 
   return (
     <Container fluid>
       <Row xs={1} md={4} lg={4} xl={5}>
-        {/* {videoData &&
+        {videoData &&
           videoData.items.map((vid: any, i: number) => (
             <Col key={vid.id}>
               <VideoCard
+                id={vid.id}
                 title={vid.snippet.title}
                 channelTitle={vid.snippet.channelTitle}
                 thumbnails={vid.snippet.thumbnails}
@@ -80,8 +81,8 @@ const VideoGrid: React.FC = () => {
             </Col>
           ))}
         {videosLoading && <VideoCardPlaceHolders count={15} />}
-        {videoError && <div>Error</div>} */}
-        {videos.items.map((vid: any, i: number) => (
+        {videoError && <div>Error</div>}
+        {/* {videos.items.map((vid: any, i: number) => (
           <Col key={vid.id}>
             <VideoCard
               title={vid.snippet.title}
@@ -92,7 +93,7 @@ const VideoGrid: React.FC = () => {
               id={vid.id}
             />
           </Col>
-        ))}
+        ))} */}
       </Row>
     </Container>
   );
